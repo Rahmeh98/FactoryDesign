@@ -1,0 +1,9 @@
+﻿  FileParser.cpp
+  JSONFileParser.cpp
+c:\users\actc\source\repos\project1\project1\jsonfileparser.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\actc\source\repos\project1\project1\jsonfileparser.cpp(46): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+  XMLFileParser.cpp
+c:\users\actc\source\repos\project1\project1\xmlfileparser.cpp(33): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Project1.vcxproj -> C:\Users\actc\source\repos\Project1\Debug\Project1.exe
